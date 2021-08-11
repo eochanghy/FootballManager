@@ -1,0 +1,17 @@
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DTO\bin\Debug\DTO.exe
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DTO\bin\Debug\DTO.pdb
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.exe
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DTO\bin\Debug\DTO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DTO\bin\Debug\DTO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DTO\bin\Debug\DTO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DTO\bin\Debug\DTO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DTO\obj\Debug\DTO.pdb

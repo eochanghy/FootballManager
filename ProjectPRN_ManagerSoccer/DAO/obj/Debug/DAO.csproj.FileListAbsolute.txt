@@ -1,0 +1,36 @@
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.exe
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.pdb
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.exe
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.pdb
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.exe
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.pdb
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.exe
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.pdb
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.exe
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.pdb
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.exe
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DTO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DTO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DAO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DTO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DAO\bin\Debug\DTO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\DAO\obj\Debug\DAO.pdb
