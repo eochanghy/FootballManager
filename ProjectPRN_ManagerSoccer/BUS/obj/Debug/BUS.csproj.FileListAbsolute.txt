@@ -1,0 +1,49 @@
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.exe
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.pdb
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.exe
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.pdb
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.exe
+C:\Users\thang do\Desktop\ProjectPRN_ManagerSoccer\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.pdb
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.exe
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.pdb
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.exe
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.pdb
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.exe
+C:\Users\Luong\Downloads\ProjectPRN_ManagerSoccer_Thang\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.pdb
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.exe
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.pdb
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.exe
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.pdb
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.exe
+E:\Documents\Kỳ 5_C#\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DTO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DTO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectPRN_ManagerSoccer-_17_7\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\bin\Debug\BUS.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DTO.exe
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DAO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\bin\Debug\DTO.pdb
+D:\FPT_University\SUM2021\PRN292\MyProject2\ProjectFinal\ProjectPRN_ManagerSoccer\BUS\obj\Debug\BUS.csproj.CopyComplete
